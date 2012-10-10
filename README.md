@@ -1,7 +1,7 @@
 Multitouch Example
-for BlackBerry PlayBook
+for BlackBerry BB10
 
-This example shows how to use multiple touchpoints on the BlackBerry PlayBook.
+This example shows how to use multiple touchpoints on the BlackBerry10.
 You can find and download the compiled application here: 
 http://appworld.blackberry.com/webstore/content/104764/?lang=en
 
